@@ -1,0 +1,14 @@
+database:
+  type: sqlite
+  path: ./database.db
+
+# example DB config for MySQL
+#database:
+#  type: mysql
+#  url: localhost:3306
+#  username: demo
+#  password: password
+#  dbname: discorddragon
+
+discord:
+  token: Nzc5MDcyOTI5NTU1MjgzOTc4.X7bONA.2gFfCJ8scUPaj78ImvZnLuabbxE
