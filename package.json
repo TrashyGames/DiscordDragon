@@ -4,7 +4,9 @@
   "description": "A furry themed Discord bot, for general server needs.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/FluffyNerds/DiscordDragon/issues"
   },
-  "homepage": "https://github.com/FluffyNerds/DiscordDragon#readme"
+  "homepage": "https://github.com/FluffyNerds/DiscordDragon#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
 }
