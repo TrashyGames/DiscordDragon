@@ -1,0 +1,24 @@
+{
+  "name": "discorddragon",
+  "version": "1.0.0",
+  "description": "A furry themed Discord bot, for general server needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FluffyNerds/DiscordDragon.git"
+  },
+  "keywords": [
+    "furry",
+    "discord",
+    "typescript"
+  ],
+  "author": "FluffyNerds",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/FluffyNerds/DiscordDragon/issues"
+  },
+  "homepage": "https://github.com/FluffyNerds/DiscordDragon#readme"
+}
